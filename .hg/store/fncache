@@ -1,0 +1,13 @@
+data/move.h.i
+data/Actuator.h.i
+data/navigation.h.i
+data/GPS.lib.i
+data/main.cpp.i
+data/modSensData.h.i
+data/IMUDataAndFilters.h.i
+data/PID.lib.i
+data/SDFileSystem.lib.i
+data/L3GD20.lib.i
+data/mbed.bld.i
+data/TrollingMotor.h.i
+data/LSM303DLHC.lib.i
